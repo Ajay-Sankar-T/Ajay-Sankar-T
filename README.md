@@ -16,6 +16,8 @@
 
 </div>
 
+---
+
 # 💫 About Me ✨
 
 ## 👋 Hi, I’m Ajay Sankar T 🚀
@@ -42,6 +44,29 @@
 
 ---
 
+## 🔥 Power System ⚔️🎮
+| Skill / Tool | Level | Progress |
+|--------------|-------|---------|
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)| 9/10 | █████████░ 90% |
+| Data Analysis 📊 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)   | 7/10 | ███████░░░ 70% |
+| Machine Learning 🤖 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) | 6/10 | ██████░░░░ 60% |
+| SQL & Databases 🗄️ | 5/10 | █████░░░░░ 50% |
+| Visualization 📈 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)| 5/10 | █████░░░░░ 50% |
+| Algorithms & Problem Solving ⚙️ | 6/10 | ██████░░░░ 60% |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  | 6/10 | ██████░░░░ 60% |
+| ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  | 4/10 | ████░░░░░░ 40% |
+| ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  | 7/10 | ███████░░░ 70% |
+| ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | 5/10 | █████░░░░░ 50% |
+
+
+
+### 🎲 Rotating Anime Quote
+![Rotating Anime Quote](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Ajay-Sankar-T/Ajay-Sankar-T/main/quotes.json)
+
+> The quote above rotates automatically via GitHub Actions every hour ⚡
+
+---
+
 ## 🎯 What I’m looking for 🤝
 - 🧪 Opportunities to **learn by doing** (projects, internships, collaborations)
 - 🧠 Honest feedback on code quality & problem-solving approach
@@ -55,16 +80,6 @@
 - 📝 Learning documented openly — including mistakes & gaps
 - 📸 Repositories are **progress snapshots**, not polished showcases
 - 🛡️ Goal: build skills that remain **reliable under pressure**
-
----
-
-## 🛠️ Tools & Technologies ⚒️
-- 🧑‍💻 **Languages:** Python, R, SQL  
-- 📊 **Data:** Pandas, NumPy, Matplotlib  
-- 🤖 **Machine Learning:** scikit-learn  
-- 🗄️ **Databases:** MySQL, PostgreSQL  
-- 📈 **Visualization:** Tableau, Power BI  
-- 📐 **Foundations:** Statistics, EDA, ML fundamentals
 
 ---
 
@@ -83,28 +98,13 @@ Habits give EXP 📈, consistency unlocks skills 🗝️, and setbacks are part 
 
 ---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ajay-Sankar-T&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ajay-Sankar-T&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Sankar-T&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+---
 
-⭐ If you find something useful here, feel free to star ⭐ or fork 🍴 —  
-this journey is still in progress 🚶‍♂️✨
+⭐ If you find something useful here, feel free to star ⭐ or fork 🍴 — this journey is still in progress 🚶‍♂️✨
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
