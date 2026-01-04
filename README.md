@@ -59,12 +59,6 @@
 | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | 5/10 | █████░░░░░ 50% |
 
 
-
-### 🎲 Rotating Anime Quote
-![Rotating Anime Quote](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Ajay-Sankar-T/Ajay-Sankar-T/main/quotes.json)
-
-> The quote above rotates automatically via GitHub Actions every hour ⚡
-
 ---
 
 ## 🎯 What I’m looking for 🤝
