@@ -1,23 +1,3 @@
-<div align="center">
-
-## ⚔️ CORE PHILOSOPHY ⚔️
-
-> **“Being weak is nothing to be ashamed of… staying weak is.”**  
-> — *Haikyuu!!* 🏐🔥  
-
-> **“Feel pain. Think about pain. Accept pain. Know pain.”**  
-> — *Pain (Naruto Shippuden)* 🌀☁️  
-
----
-
-🧠 **Weakness is allowed. Stagnation is not.**  
-🔥 **Pain isn’t an enemy — it’s feedback.**  
-⚙️ **Systems > motivation. Consistency > intensity.**  
-
-</div>
-
----
-
 # 💫 About Me ✨
 
 ## 👋 Hi, I’m Ajay Sankar T 🚀
@@ -43,7 +23,25 @@
 - ✨ Improving code structure, readability & reproducibility
 
 ---
+<div align="center">
 
+## ⚔️ CORE PHILOSOPHY ⚔️
+
+> **“Being weak is nothing to be ashamed of… staying weak is.”**  
+> — *Haikyuu!!* 🏐🔥  
+
+> **“Feel pain. Think about pain. Accept pain. Know pain.”**  
+> — *Pain (Naruto Shippuden)* 🌀☁️  
+
+---
+
+🧠 **Weakness is allowed. Stagnation is not.**  
+🔥 **Pain isn’t an enemy — it’s feedback.**  
+⚙️ **Systems > motivation. Consistency > intensity.**  
+
+</div>
+
+---
 ## 🔥 Power System ⚔️🎮
 | Skill / Tool | Level | Progress |
 |--------------|-------|---------|
