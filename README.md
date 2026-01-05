@@ -1,9 +1,3 @@
-# 🚀 Quick Intro
-
-> **ME Student @ IIT Madras | Learning Data Science & ML through projects | Python, SQL, NumPy, Pandas | Open to internships & collaborations**
-
----
-
 # 💫 About Me ✨
 
 ## 👋 Hi, I’m Ajay Sankar T 🚀
@@ -86,14 +80,17 @@ I treat learning like an RPG ✨
 Habits give EXP 📈, consistency unlocks skills 🗝️, and setbacks are part of the main storyline 🛡️⚔️
 
 ---
+## 💬 Let's Connect!
 
-## 🌐 Socials
+Interested in **collaborating, learning together, or just chatting about tech?** Reach out!
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajaysankar_2006)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-sankar-975b5a284/)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/AJAY-SANKAR-68?q=AJAY%20SANKAR)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ayoeditz4466)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajay4sankar@gmail.com)
 
+**Fun fact:** I reply to genuinely interesting messages (within a reasonable time ⏰)
 ---
 
 ## 📚 Key Repositories
@@ -120,16 +117,10 @@ Here are some projects I'm actively building or maintaining:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-## 💬 Let's Connect!
 
-Interested in **collaborating, learning together, or just chatting about tech?** Reach out!
 
-- 📧 **Email:** [ajay4sankar@gmail.com](mailto:ajay4sankar@gmail.com)
-- 💼 **LinkedIn:** [Ajay Sankar](https://www.linkedin.com/in/ajay-sankar-975b5a284/)
-- 📱 **Instagram:** [@ajaysankar_2006](https://instagram.com/ajaysankar_2006)
 
-**Fun fact:** I reply to genuinely interesting messages (within a reasonable time ⏰)
+
+
 
 ---
-
-*Last updated: Jan 2026 | This README is a living document 📝*
