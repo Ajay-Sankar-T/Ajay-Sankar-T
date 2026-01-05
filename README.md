@@ -1,3 +1,9 @@
+# 🚀 Quick Intro
+
+> **ME Student @ IIT Madras | Learning Data Science & ML through projects | Python, SQL, NumPy, Pandas | Open to internships & collaborations**
+
+---
+
 # 💫 About Me ✨
 
 ## 👋 Hi, I’m Ajay Sankar T 🚀
@@ -90,6 +96,18 @@ Habits give EXP 📈, consistency unlocks skills 🗝️, and setbacks are part 
 
 ---
 
+## 📚 Key Repositories
+
+Here are some projects I'm actively building or maintaining:
+
+| Repo | Description | Tech Stack |
+|------|-------------|------------|
+| **[skill-forge-hub](https://github.com/Ajay-Sankar-T/skill-forge-hub)** | Data science & ML learning projects with clean, documented code | Python, Pandas, NumPy, Scikit-Learn |
+| **[Me-Learning-C](https://github.com/Ajay-Sankar-T/Me-Learning-C)** | C programming fundamentals - learning journey | C |
+| **[ajay_never_dies.github.io](https://github.com/Ajay-Sankar-T/ajay_never_dies.github.io)** | Personal blog documenting tech, health & growth | HTML, CSS, Jekyll |
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ajay-Sankar-T&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ajay-Sankar-T&theme=dark&hide_border=false)<br/>
@@ -100,3 +118,18 @@ Habits give EXP 📈, consistency unlocks skills 🗝️, and setbacks are part 
 ⭐ If you find something useful here, feel free to star ⭐ or fork 🍴 — this journey is still in progress 🚶‍♂️✨
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 💬 Let's Connect!
+
+Interested in **collaborating, learning together, or just chatting about tech?** Reach out!
+
+- 📧 **Email:** [ajay4sankar@gmail.com](mailto:ajay4sankar@gmail.com)
+- 💼 **LinkedIn:** [Ajay Sankar](https://www.linkedin.com/in/ajay-sankar-975b5a284/)
+- 📱 **Instagram:** [@ajaysankar_2006](https://instagram.com/ajaysankar_2006)
+
+**Fun fact:** I reply to genuinely interesting messages (within a reasonable time ⏰)
+
+---
+
+*Last updated: Jan 2026 | This README is a living document 📝*
